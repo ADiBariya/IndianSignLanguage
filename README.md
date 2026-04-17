@@ -15,7 +15,7 @@
 
 <br/>
 
-> **Hackathon Project — Team Sudarshan**
+> **ISL**
 >
 > An AI-powered full-stack platform that makes Indian Sign Language (ISL) accessible to everyone through real-time gesture recognition, structured lessons, and gamified learning.
 
